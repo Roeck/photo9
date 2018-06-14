@@ -1,4 +1,7 @@
 <h3>
+
+- Executed via 'npm start' CLI.
+
 - A sophisticated Photo Web Application with React, Redux and CSS.
 
 - Used Redux to manage data.
@@ -16,5 +19,7 @@
 - Compartmentalized the web page into Components.
 
 - Updated Component State to ensure responsive and interactive application.
+
+
 </h3>
 
