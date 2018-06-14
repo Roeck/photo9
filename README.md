@@ -1,6 +1,7 @@
 <h3>
 A sophisticated Photo Web Application with React, Redux and CSS.
 
+
 Used Redux to manage data.
 
 Connected to Firebase.
