@@ -1,21 +1,20 @@
 <h3>
-A sophisticated Photo Web Application with React, Redux and CSS.
+- A sophisticated Photo Web Application with React, Redux and CSS.
 
+- Used Redux to manage data.
 
-Used Redux to manage data.
+- Connected to Firebase.
 
-Connected to Firebase.
+- Used React Router to navigate through the application.
 
-Used React Router to navigate through the application.
+- Created Class Components.
 
-Created Class Components.
+- Used JSX to build the User Interface.
 
-Used JSX to build the User Interface
+- Used Props to pass Data.
 
-Used Props to pass Data
+- Compartmentalized the web page into Components.
 
-Compartmentalized the web page into Components
-
-Updated Component State to ensure responsive and interactive application.
+- Updated Component State to ensure responsive and interactive application.
 </h3>
 
